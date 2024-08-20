@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>240493946576-2n5npkp5bctcn1rs47d0rgfpeir3lnga.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.240493946576-2n5npkp5bctcn1rs47d0rgfpeir3lnga</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>240493946576-c0sqsuhckqu1bp4dfvrf3e657dhi591l.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBl9OKjO98AmpVbeEb9eEMNYKl6vFwFmo4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>240493946576</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.yarGidMobile.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>yargidmobile</string>
+	<key>STORAGE_BUCKET</key>
+	<string>yargidmobile.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:240493946576:ios:2fdbae809a5b3367f9e0d5</string>
+</dict>
+</plist>

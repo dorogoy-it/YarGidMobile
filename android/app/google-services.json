@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "240493946576",
+    "project_id": "yargidmobile",
+    "storage_bucket": "yargidmobile.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:240493946576:android:75f2fb4057d95049f9e0d5",
+        "android_client_info": {
+          "package_name": "com.example.yar_gid_mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "240493946576-c0sqsuhckqu1bp4dfvrf3e657dhi591l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.yar_gid_mobile",
+            "certificate_hash": "51367c74e819decbc8e6863dcd22ce79b2bdd869"
+          }
+        },
+        {
+          "client_id": "240493946576-8q0ud1ks89l7r44phndvevjtm395f2pf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaFf9dJJusVl6dOwoQMvRxzo4Jsd65dfQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "240493946576-8q0ud1ks89l7r44phndvevjtm395f2pf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "240493946576-2n5npkp5bctcn1rs47d0rgfpeir3lnga.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.yarGidMobile.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
